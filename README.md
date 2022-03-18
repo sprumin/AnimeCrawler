@@ -22,3 +22,5 @@
 - AWS Lambda
 - AWS API Gateway
 - AWS DynamoDB
+
+API 개발은 마무리 되었으나..중단된 프로젝트
